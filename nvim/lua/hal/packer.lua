@@ -5,12 +5,6 @@ return require('packer').startup(function(use)
     -- Packer can manage itself
     use 'wbthomason/packer.nvim'
 
-    -- themes
-    use ({
-        "ellisonleao/gruvbox.nvim",
-        as = "gruvbox",
-    })
-
     use({
         "neanias/everforest-nvim",
         as = "everforest",

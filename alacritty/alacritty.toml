@@ -32,7 +32,7 @@ size = 14
 
 # Default colors
 [colors.primary]
-background = '#2d353b'
+background = '#272e33'
 foreground = '#d3c6aa'
 
 # Normal colors
